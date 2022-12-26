@@ -1,0 +1,187 @@
+    [
+        {
+        "titre": "Le Parrain",
+        "réalisateur": "Francis Ford Coppola",
+        "durée": 175,
+        "annéedeproduction": 1972,
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "festivals": ["Cannes", "Venice Film Festival"],
+        "Acteurs": [
+            {
+            " nom": "Brando",
+            "prénom": "Marlon",
+            "nationalité": "American"
+            },
+            {
+            "nom": "Pacino",
+            "prénom": "Al",
+            "nationalité": "American"
+            }
+        ]
+        },
+        {
+        "titre": "Le Bon, la Brute et le Truand",
+        "réalisateur": "Sergio Leone",
+        "durée": 161,
+        "annéedeproduction": 1966,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_.jpg",
+        "festivals": ["Cannes"],
+        "Acteurs": [
+            {
+            "nom": "Eastwood",
+            " prénom": "Clint",
+            "nationalité": "American"
+            },
+            {
+            "nom": "Van Cleef",
+            "prénom": "Lee",
+            "nationalité": "American"
+            }
+        ]
+        },
+                {
+                    "titre": "Le Parrain",
+                    "réalisateur": "Francis Ford Coppola",
+                    "duration": 175,
+                    "annéedeproduction": 1972,
+                    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+                    "festivals": ["Cannes", "Venice Film Festival"],
+                    "nationalité": [
+                        {
+                        "nom": "Brando",
+                        " prénom": "Marlon",
+                        "nationality": "American"
+                        },
+                        {
+                        "nom": "Al Pacino",
+                        "firstname": "Al",
+                        "nationalité": "American"
+                        }
+                    ]
+                },
+                    {
+                    "titre": "Le Bon, la Brute et le Truand",
+                    "réalisateur": "Sergio Leone",
+                    "duration": 161,
+                    "annéedeproduction": 1966,
+                    "poster": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_.jpg",
+                    "festivals": ["Cannes"],
+                    "Acteurs": [
+                        {
+                        "nom": "Clint Eastwood",
+                        " prénom": "Clint",
+                        "nationalité": "American"
+                        },
+                        {
+                        "nom": "Lee Van Cleef",
+                        " prénom": "Lee",
+                        "nationalité": "American"
+                        }
+                    ]
+                    },
+        {
+            "titre": "Le Parrain",
+            "réalisateur": "Francis Ford Coppola",
+            "Une durée": 175,
+            "annéedeproduction": 1972,
+            "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+            "festivals": ["Cannes", "Venice Film Festival"],
+            "Acteurs": [
+                {
+                "nom": "Marlon Brando",
+                " prénom": "Marlon",
+                "nationality": "American"
+                },
+                {
+                "nom": "Al Pacino",
+                " prénom": "Al",
+                "nationalité": "American"
+                }
+            ]
+        },
+            
+            {
+            "titre": "Le Bon, la Brute et le Truand",
+            "réalisateur": "Sergio Leone",
+            "durée": 161,
+            "annéedeproduction": 1966,
+            "poster": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_.jpg",
+            "festivals": ["Cannes"],
+            "Acteurs": [
+                {
+                "nom": "Eastwood",
+                " prénom": "Clint",
+                "nationalité": "American"
+                },
+                {
+                "nom": "Van Cleef",
+                " prénom": "Lee",
+                "nationalité": "American"
+                }
+            ] 
+        },  
+                    {
+                        "titre": "Le Parrain",
+                        "réalisateur": "Francis Ford Coppola",
+                        "duration": 175,
+                        "annéedeproduction": 1972,
+                        "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+                        "festivals": ["Cannes", "Venice Film Festival"],
+                        "Acteurs": [
+                            {
+                            "nom": "Brando",
+                            " prénom": "Marlon",
+                            "nationalité": "American"
+                            },
+                            {
+                            "nom": "Pacino",
+                            " prénom": "Al",
+                            "nationalité": "American"
+                            }
+                        ]
+                    },
+                        {
+                        "titre": "Le Bon, la Brute et le Truand",
+                        "réalisateur": "Sergio Leone",
+                        "duration": 161,
+                        "annéedeproduction": 1966,
+                        "poster": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_.jpg",
+                        "festivals": ["Cannes"],
+                        "Acteurs": [
+                            {
+                            "nom": "Eastwood",
+                            " prénom": "Clint",
+                            "nationalité": "American"
+                            },
+                            {
+                            "nom": "Van Cleef",
+                            " prénom": "Lee",
+                            "nationalité": "American"
+                            }
+                        ]
+                        },
+                            {
+                                "titre": "The Godfather",
+                                "réalisateur": "Francis Ford Coppola",
+                                "duration": 175,
+                                "annéedeproduction": 1972,
+                                "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+                                "festivals": ["Cannes Film Festival", "Venice Film Festival"],
+                                "Acteurs": [
+                                {
+                                    "nom": "Brando",
+                                    "prénom": "Marlon",
+                                    "nationalité": "American"
+                                },
+                                {
+                                    "name": "Al Pacino",
+                                    "firstname": "Al",
+                                    "nationality": "American"
+                                }
+                                ]
+                            }
+            ]
+                    
+                
+            
+    
