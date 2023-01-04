@@ -58,3 +58,12 @@ header {
     top: 5%;
     border-radius: 18px;
 }
+#select{
+    position: absolute;
+    right:28% ;
+    width: 300px;
+    border-radius: 18px;
+}
+option{
+    color: black;
+}

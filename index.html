@@ -16,26 +16,41 @@
         <p class="nav-tittle">MovieFlix</p>
         <div class="d-flex justify-content-center mt-5">
             <input onkeyup="searchData(this.value)" type="text" placeholder="Entrez votre requête de recherche" id="searchInput" style="width: 300px">
-    
             </div>
+            <select  id="select" a-label=".form-select-lg example" class="table-hover text-dark">
+                <option selected>🎬Choisir quelque Chose🎟️</option>
+                    <option value="1" >Titre ↑</option>
+                    <option value="2" >Titre ↓</option>
+                    <option value="3" >Réalisateur ↑</option>
+                    <option value="4" >Réalisateur ↓</option>
+                    <option value="5" >Durée ↑</option>
+                    <option value="6" >Durée ↓</option>
+                    <option value="7" >L'année de production ↑</option>
+                    <option value="8" >L'année de production ↓</option>
+                </select>
+            </select>
+      
     
    
     
     </header>
         <table class="table table-dark table-hover text-light" >
-            <thead>
-                <tr>
-                    <th>titre</th>
-                    <th>réalisateur</th>
-                    <th>duration</th>
-                    <th>année de production</th>
-                    <th>Poster</th>
-                    <th>Festivals</th>
-                    <th>Acteurs</th>
-                </tr>
+
+                <thead>
+                  <tr>
+                    <th data-column="titre" data-sort="asc">Titre</th>
+                    <th data-column="réalisateur" data-sort="asc">Réalisateur</th>
+                    <th data-column="durée" data-sort="asc">Durée</th>
+                    <th data-column="annéedeproduction" data-sort="asc">Année de production</th>
+                    <th data-column="poster" data-sort="asc">Poster</th>
+                    <th data-column="festivals" data-sort="asc">Festivals</th>
+                    <th data-column="Acteurs" data-sort="asc">Acteurs</th>
+                  </tr>
                 </thead>
                 <tbody id="tbody">
+                  <!-- Table rows will be generated and added here by the script -->
                 </tbody>
+              
           </table>
         
             <script src="script.js"></script>
